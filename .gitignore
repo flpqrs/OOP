@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Library/.vs
+/Library/bin/Debug/net6.0
+/Library/obj
+/Library.DataAccess/bin/Debug/net6.0
+/Library.DataAccess/obj
+/Library.Entities/bin/Debug/net6.0
+/Library.Entities/obj
+/Library.Service/bin/Debug/net6.0
+/Library.Service/obj/Debug/net6.0
+/Library.Service/obj
